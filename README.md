@@ -1,6 +1,7 @@
 # Divya-Tripathi_202501100400134_AIML_B
 
-✨ Features
+Features
+
 Semantic Layout: Clean structure using <header>, <main>, <footer>, and <section> tags.
 
 Artwork Showcase: Displays images and descriptions for five famous paintings.
