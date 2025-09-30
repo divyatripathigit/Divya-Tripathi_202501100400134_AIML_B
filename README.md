@@ -1,5 +1,5 @@
 # Divya-Tripathi_202501100400134_AIML_B
-Of course. Here is a professional and well-structured README file template in Markdown format, tailored for the "Virtual Art Gallery" project you created. You can copy and paste this into a file named README.md in your GitHub repository.
+
 ✨ Features
 Semantic Layout: Clean structure using <header>, <main>, <footer>, and <section> tags.
 
