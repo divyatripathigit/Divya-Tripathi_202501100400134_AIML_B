@@ -2,7 +2,7 @@
 
 Features
 
-Semantic Layout: Clean structure using <header>, <main>, <footer>, and <section> tags.
+Semantic Layout: Clean structure using header, main, footer, and section tags.
 
 Artwork Showcase: Displays images and descriptions for five famous paintings.
 
