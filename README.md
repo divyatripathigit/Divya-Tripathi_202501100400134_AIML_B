@@ -10,7 +10,7 @@ Data Table: A summary table provides key details (artist, medium, year) for each
 
 External Links: Each artwork links to its respective Wikipedia page for further reading.
 
-Rich Text Formatting: Demonstrates various tags like <strong>, <em>, <ins>, and <del>.
+Rich Text Formatting: Demonstrates various tags like strong, em, ins, and del.
 
 🛠️ Technologies Used
 HTML5
